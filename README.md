@@ -1,14 +1,14 @@
-# Olá! 👋 Eu sou [Thiago Reis Dalla Bernardina]
+# Olá! 👋 Eu sou Thiago Reis Dalla Bernardina
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos que refletem minha paixão por tecnologia, aprendizado e inovação.
 
 ---
 
 ## Sobre mim 🧑‍💻
-- 🌱 Atualmente, estou aprendendo [Java].
-- 🔭 Trabalhando em [Sites na web].
-- 💡 Interessado em [Programação back-end].
-- 📫 Como me encontrar: [tel: (27) 998862431, email: trdallabernardina@gmail.com].
+- 🌱 Atualmente, estou aprendendo Java.
+- 🔭 Trabalhando em Sites na web.
+- 💡 Interessado em Programação back-end.
+- 📫 Como me encontrar: tel: (27) 998862431, email: trdallabernardina@gmail.com.
 
 ---
 
