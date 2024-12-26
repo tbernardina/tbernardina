@@ -40,7 +40,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ---
 
 ## Vamos Conectar? 🌐
-- [LinkedIn]([link](https://www.linkedin.com/in/thiago-reis-dalla-bernardina-6aa41b2b9/))
+- [LinkedIn](https://www.linkedin.com/in/thiago-reis-dalla-bernardina-6aa41b2b9/)
 - [Portfólio](link)
 - [Blog](link)
 
