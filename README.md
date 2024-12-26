@@ -35,7 +35,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tbernardina&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tbernardina&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoreiraNascimento&layout=compact&theme=radical)
 
 ---
 
