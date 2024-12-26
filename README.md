@@ -28,7 +28,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ---
 
 ## Meus Projetos 🔥
-- **[Gerenciador de tarefas/Check Lists]([link-do-repositorio](https://github.com/tbernardina/Check-List-Gerenciavel.git)):** Descrição breve do projeto.
+- **[Gerenciador de tarefas/Check Lists]([link-do-repositorio](https://github.com/tbernardina/Check-List-Gerenciavel.git)):** Um gerenciador de tarefas em equipe, utilizado para organizar atividades em equipe. Já em uso no Laboratório de Analises Clínicas Santa Maria.
 
 ---
 
