@@ -14,7 +14,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 - 🌱 Atualmente, estou aprendendo Java.
 - 🔭 Trabalhando em Sites na web.
 - 💡 Interessado em Programação back-end.
-- 📫 Como me encontrar: 
+- 📫 Como me encontrar:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trdallabernardina@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-reis-dalla-bernardina-6aa41b2b9/) | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thiagoreisdalla/)
 
 ---
@@ -31,7 +31,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ---
 
 ## Meus Projetos 🔥
-- **[Gerenciador de tarefas/Check Lists]([link-do-repositorio](https://github.com/tbernardina/Check-List-Gerenciavel.git)):** Um gerenciador de tarefas em equipe, utilizado para organizar atividades em equipe. Já em uso no Laboratório de Analises Clínicas Santa Maria.
+- **[Gerenciador de tarefas/Check Lists](https://github.com/tbernardina/Check-List-Gerenciavel.git):** Um gerenciador de tarefas em equipe, utilizado para organizar atividades em equipe. Já em uso no Laboratório de Analises Clínicas Santa Maria.
 
 ---
 
