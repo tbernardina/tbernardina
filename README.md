@@ -1,4 +1,6 @@
-# Olá! 👋 Eu sou Thiago Reis Dalla Bernardina
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋👋;+Me+Chamo+Thiago+Reis!!;" />
+</h1>
 
 Bem-vindo ao meu perfil no GitHub! Sou um programador jovem e apaixonado por tecnologia. Desde cedo, desenvolvi uma enorme sede de conhecimento na área de desenvolvimento de software e tenho buscado constantemente me aprimorar em cada projeto que realizo.
 
