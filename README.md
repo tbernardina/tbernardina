@@ -41,10 +41,3 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tbernardina&layout=compact&theme=radical)
 
 ---
-
-## Vamos Conectar? 🌐
-- [LinkedIn](https://www.linkedin.com/in/thiago-reis-dalla-bernardina-6aa41b2b9/)
-- [Portfólio](link)
-- [Blog](link)
-
----
