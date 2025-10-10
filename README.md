@@ -31,6 +31,7 @@ Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a 
 ---
 
 ## Meus Projetos 🔥
+- **[Blog(Meu primeiro projeto)](https://github.com/tbernardina/Blog.git):** Meu primeiro projeto de desenvolvimento utilizando PHP e CSS puro. Fiz em conjunto com um amigo priorizando o aprendizado.
 - **[Gerenciador de tarefas/Check Lists](https://github.com/tbernardina/Check-List-Gerenciavel.git):** Um gerenciador de tarefas em equipe, utilizado para organizar atividades em equipe. Já em uso no Laboratório de Analises Clínicas Santa Maria.
 - **[Site de noticias com acessibilidade para idosos](hhtps://github.com/tbernardina/gnews.git):** Um site que alimenta-se de uma api e possui funcionalidades para ajudar o público idoso possuindo comando de voz nas noticias, zoom in e zoom out para facilitar a leitura. Projeto foi desenvolvido como um trabalho para faculdade.
 
