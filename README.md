@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou um programador jovem e apaixonado por tecnologia. Desde cedo, desenvolvi uma enorme sede de conhecimento na área de desenvolvimento de software e tenho buscado constantemente me aprimorar em cada projeto que realizo.
 
-Atualmente, meu foco está voltado para o desenvolvimento back-end, o fascinante mundo dos bancos de dados e a automação de processos, explorando como essas áreas podem transformar ideias em soluções práticas e eficientes.
+Atualmente, meu foco está voltado para o desenvolvimento back-end, o fascinante mundo da Big Data e a automação de processos, explorando como essas áreas podem transformar ideias em soluções práticas e eficientes.
 
 Sou movido pela curiosidade e adoro enfrentar novos desafios, sempre disposto a aprender novas tecnologias, linguagens e ferramentas para expandir minhas habilidades. Meu objetivo é crescer continuamente e contribuir para projetos que realmente façam a diferença.
 
