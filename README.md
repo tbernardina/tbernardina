@@ -41,7 +41,6 @@ Sou movido pela curiosidade técnica e por transformar regras de negócio comple
 ### 🔒 Arquiteturas Corporativas & Acadêmicas
 *(Projetos privados em desenvolvimento com foco em arquitetura avançada e regras de negócio)*
 
-- **Colnnect:** Plataforma municipal de networking e aquisição de talentos com sistema gamificado de pontuação acadêmica e métricas de conduta (MVP).
 - **UsBus / Cittamobi++:** Serviço de ingestão de localização GPS em tempo real e cálculo de ETA. Stack construída com Flutter, Go, Python (map matching), Redis Streams e OpenStreetMap.
 - **Assistente de IA (TCC):** Agente de suporte ao cliente integrado nativamente ao WhatsApp. Utiliza Evolution API, modelos locais via Ollama, LangChain, banco vetorial ChromaDB e abertura automatizada de chamados no GLPI.
 
