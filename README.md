@@ -52,8 +52,8 @@ Sou movido pela curiosidade técnica e por transformar regras de negócio comple
 ---
 
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tbernardina&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tbernardina&show_icons=true&theme=radical&v=1&cache_seconds=86400)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tbernardina&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=tbernardina&layout=compact&theme=radical&v=1&cache_seconds=86400)
 
 ---
